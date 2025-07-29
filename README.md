@@ -1,12 +1,46 @@
-# React + Vite
+# Arnav Rana – Portfolio Website 💻🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built using **React.js**, **Framer Motion**, and custom CSS. This site showcases my skills, projects, certificates, and contact information.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js (Vite), Framer Motion, CSS
+- **Animation**: Framer Motion
+- **Routing**: React Router DOM
+- **Deployment**: Vercel
+- **Contact Form**: [FormSubmit](https://formsubmit.co) for mail forwarding
+
+---
+
+## 📂 Features
+
+- 🏠 **Home Page** – Introduction with image and resume download
+- 📜 **Certificates Page** – All certificates categorized and downloadable
+- 🚀 **Projects Page** – List of key projects with descriptions and links
+- ✉️ **Contact Page** – Contact form with email, GitHub, LinkedIn links
+- 💻 Fully Responsive Design – Mobile & tablet friendly
+
+---
+
+## 📥 Installation & Setup (Local)
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/your-portfolio.git
+   cd your-portfolio
+
+2. Install dependencies
+
+npm install
+Start development server
+
+3. npm run dev
+Build for production
+
+4. npm run build
