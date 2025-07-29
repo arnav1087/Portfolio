@@ -1,5 +1,5 @@
 import React from "react";
-import "./Certificates.css";
+import "./certificates.css";
 
 // Frontend Web Development
 import HTML5 from "../assets/ARNAV certificates/HTML5.pdf";
