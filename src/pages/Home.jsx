@@ -25,7 +25,7 @@ const Home = () => {
             Python. I love building interactive and animated websites that
             deliver a great user experience.
           </p>
-          <a href="/src/assets/resume.pdf" download className="download-button">
+          <a href="/src/assets/Arnav-resume.pdf" download className="download-button">
             Download Resume
           </a>
         </div>
