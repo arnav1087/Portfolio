@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import "./Home.css"; // Import your CSS file
+import "./home.css"; // Import your CSS file
 import profilePic from "../assets/profile.jpg"; // Put your image in /src/assets/
 
 const Home = () => {
